@@ -1,72 +1,68 @@
-# Formulário de Login em HTML e CSS
+# Login Form in HTML and CSS
 
-Bem-vindo ao projeto do formulário de login em HTML e CSS! Este é um projeto simples que visa criar um formulário de login elegante usando apenas HTML puro para a estrutura e CSS para o estilo.
+Welcome to the HTML and CSS login form project! This is a simple project aimed at creating an elegant login form using pure HTML for structure and CSS for styling.
 
-## Contribuindo
+## Contributing
 
-Nós adoraríamos receber contribuições da comunidade para melhorar e expandir este projeto. Siga os passos abaixo para começar a contribuir:
+We would love to receive contributions from the community to improve and expand this project. Follow the steps below to start contributing:
 
-1. Faça um fork deste repositório.
+1. Fork this repository.
 
-2. Clone o seu fork para a sua máquina local:
+2. Clone your fork to your local machine:
 
     ```bash
     git clone https://github.com/nferdica/login-form-pure.git
     ```
 
-3. Crie uma branch para suas alterações:
+3. Create a branch for your changes:
 
     ```bash
     git checkout -b main
     ```
 
-4. Faça as alterações desejadas no código.
+4. Make desired changes in the code.
 
-5. Certifique-se de testar suas alterações localmente.
+5. Make sure to test your changes locally.
 
-6. Adicione e commite suas alterações:
+6. Add and commit your changes:
 
     ```bash
     git add .
-    git commit -m "Adicionando funcionalidade"
+    git commit -m "Adding functionality"
     ```
 
-7. Envie suas alterações para o seu fork no GitHub:
+7. Push your changes to your fork on GitHub:
 
     ```bash
     git push origin main
     ```
 
-8. Abra um pull request para o repositório original.
+8. Open a pull request to the original repository.
 
-9. Aguarde a revisão e feedback da comunidade.
+9. Wait for community review and feedback.
 
-## Estrutura do Projeto
+## Project Structure
 
-A estrutura básica do projeto é a seguinte:
+The basic structure of the project is as follows:
 
+- `index.html`: Contains the HTML structure of the login form.
+- `style.css`: CSS style for the form.
+- `README.md`: Project documentation.
 
-- `index.html`: Contém a estrutura HTML do formulário de login.
-- `style.css`: Estilo CSS para o formulário.
-- `README.md`: Documentação do projeto.
+## How to Use
 
-## Como Usar
-
-1. Clone o repositório:
+1. Clone the repository:
 
     ```bash
     git clone https://github.com/nferdica/login-form-pure.git
     ```
 
-2. Abra o arquivo `index.html` em seu navegador.
+2. Open the `index.html` file in your browser.
 
-3. Explore e use o formulário de login.
+3. Explore and use the login form.
 
 ## Feedback
 
-Se você encontrar algum problema ou tiver sugestões para melhorias, por favor, abra uma issue neste repositório. Estamos abertos a feedback!
+If you encounter any issues or have suggestions for improvements, please open an issue in this repository. We are open to feedback!
 
-Obrigado por contribuir!
-
-
-
+Thank you for contributing!
