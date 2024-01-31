@@ -11,13 +11,13 @@ Nós adoraríamos receber contribuições da comunidade para melhorar e expandir
 2. Clone o seu fork para a sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/formulario-login-html-css.git
+    git clone https://github.com/nferdica/login-form-pure.git
     ```
 
 3. Crie uma branch para suas alterações:
 
     ```bash
-    git checkout -b nome-da-sua-branch
+    git checkout -b main
     ```
 
 4. Faça as alterações desejadas no código.
@@ -28,13 +28,13 @@ Nós adoraríamos receber contribuições da comunidade para melhorar e expandir
 
     ```bash
     git add .
-    git commit -m "Adicionando funcionalidade XYZ"
+    git commit -m "Adicionando funcionalidade"
     ```
 
 7. Envie suas alterações para o seu fork no GitHub:
 
     ```bash
-    git push origin nome-da-sua-branch
+    git push origin main
     ```
 
 8. Abra um pull request para o repositório original.
@@ -55,7 +55,7 @@ A estrutura básica do projeto é a seguinte:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/formulario-login-html-css.git
+    git clone https://github.com/nferdica/login-form-pure.git
     ```
 
 2. Abra o arquivo `index.html` em seu navegador.
